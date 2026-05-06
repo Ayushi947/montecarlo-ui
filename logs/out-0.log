@@ -1,0 +1,26 @@
+2026-02-04T20:08:33: ▲ Next.js 16.1.6
+2026-02-04T20:08:33: - Local:         http://localhost:3000
+2026-02-04T20:08:33: - Network:       http://172.168.1.249:3000
+2026-02-04T20:08:33: 
+2026-02-04T20:08:33: ✓ Starting...
+2026-02-04T20:08:33: ✓ Ready in 205ms
+2026-02-04T20:18:14: 
+2026-02-04T20:18:14: > montecarlo-frontend@0.1.0 start /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend
+2026-02-04T20:18:14: > next start
+2026-02-04T20:18:14: 
+2026-02-04T20:18:14: ▲ Next.js 16.1.6
+2026-02-04T20:18:14: - Local:         http://localhost:3000
+2026-02-04T20:18:14: - Network:       http://172.168.1.249:3000
+2026-02-04T20:18:14: 
+2026-02-04T20:18:14: ✓ Starting...
+2026-02-04T20:18:14: ✓ Ready in 383ms
+2026-02-05T15:21:15: 
+2026-02-05T15:21:15: > montecarlo-frontend@0.1.0 start /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-ui
+2026-02-05T15:21:15: > next start
+2026-02-05T15:21:15: 
+2026-02-05T15:21:15: ▲ Next.js 16.1.6
+2026-02-05T15:21:15: - Local:         http://localhost:3000
+2026-02-05T15:21:15: - Network:       http://172.168.1.249:3000
+2026-02-05T15:21:15: 
+2026-02-05T15:21:15: ✓ Starting...
+2026-02-05T15:21:15: ✓ Ready in 213ms

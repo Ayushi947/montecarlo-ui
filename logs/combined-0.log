@@ -1,0 +1,329 @@
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:01:56: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:01:56:           ^^^^^^^
+2026-02-04T20:01:56: 
+2026-02-04T20:01:56: SyntaxError: missing ) after argument list
+2026-02-04T20:01:56:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:01:56:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:01:56:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:01:56:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:01:56:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:01:56:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:16: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:16:           ^^^^^^^
+2026-02-04T20:06:16: 
+2026-02-04T20:06:16: SyntaxError: missing ) after argument list
+2026-02-04T20:06:16:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:16: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:16:           ^^^^^^^
+2026-02-04T20:06:16: 
+2026-02-04T20:06:16: SyntaxError: missing ) after argument list
+2026-02-04T20:06:16:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:16: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:16:           ^^^^^^^
+2026-02-04T20:06:16: 
+2026-02-04T20:06:16: SyntaxError: missing ) after argument list
+2026-02-04T20:06:16:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:16: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:16:           ^^^^^^^
+2026-02-04T20:06:16: 
+2026-02-04T20:06:16: SyntaxError: missing ) after argument list
+2026-02-04T20:06:16:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:16: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:16:           ^^^^^^^
+2026-02-04T20:06:16: 
+2026-02-04T20:06:16: SyntaxError: missing ) after argument list
+2026-02-04T20:06:16:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:16: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:16:           ^^^^^^^
+2026-02-04T20:06:16: 
+2026-02-04T20:06:16: SyntaxError: missing ) after argument list
+2026-02-04T20:06:16:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:16:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:16:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:16:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:16:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:16:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:17: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:17: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:17:           ^^^^^^^
+2026-02-04T20:06:17: 
+2026-02-04T20:06:17: SyntaxError: missing ) after argument list
+2026-02-04T20:06:17:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:17:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:17:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:17:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:17:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:17:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:17:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:17:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:17: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:17: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:17:           ^^^^^^^
+2026-02-04T20:06:17: 
+2026-02-04T20:06:17: SyntaxError: missing ) after argument list
+2026-02-04T20:06:17:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:17:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:17:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:17:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:17:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:17:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:17:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:17:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:17: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:17: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:17:           ^^^^^^^
+2026-02-04T20:06:17: 
+2026-02-04T20:06:17: SyntaxError: missing ) after argument list
+2026-02-04T20:06:17:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:17:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:17:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:17:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:17:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:17:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:17:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:17:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:17: /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend/node_modules/.bin/next:2
+2026-02-04T20:06:17: basedir=$(dirname "$(echo "$0" | sed -e 's,\\,/,g')")
+2026-02-04T20:06:17:           ^^^^^^^
+2026-02-04T20:06:17: 
+2026-02-04T20:06:17: SyntaxError: missing ) after argument list
+2026-02-04T20:06:17:     at wrapSafe (node:internal/modules/cjs/loader:1691:18)
+2026-02-04T20:06:17:     at Module._compile (node:internal/modules/cjs/loader:1734:20)
+2026-02-04T20:06:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:17:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:17:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:06:17:     at Object.<anonymous> (/opt/homebrew/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23)
+2026-02-04T20:06:17:     at Module._compile (node:internal/modules/cjs/loader:1760:14)
+2026-02-04T20:06:17:     at Module._extensions..js (node:internal/modules/cjs/loader:1892:10)
+2026-02-04T20:06:17:     at Module.load (node:internal/modules/cjs/loader:1480:32)
+2026-02-04T20:06:17:     at Module._load (node:internal/modules/cjs/loader:1299:12)
+2026-02-04T20:08:33: ▲ Next.js 16.1.6
+2026-02-04T20:08:33: - Local:         http://localhost:3000
+2026-02-04T20:08:33: - Network:       http://172.168.1.249:3000
+2026-02-04T20:08:33: 
+2026-02-04T20:08:33: ✓ Starting...
+2026-02-04T20:08:33: ⚠ "next start" does not work with "output: standalone" configuration. Use "node .next/standalone/server.js" instead.
+2026-02-04T20:08:33: ✓ Ready in 205ms
+2026-02-04T20:18:14: 
+2026-02-04T20:18:14: > montecarlo-frontend@0.1.0 start /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-frontend
+2026-02-04T20:18:14: > next start
+2026-02-04T20:18:14: 
+2026-02-04T20:18:14: ▲ Next.js 16.1.6
+2026-02-04T20:18:14: - Local:         http://localhost:3000
+2026-02-04T20:18:14: - Network:       http://172.168.1.249:3000
+2026-02-04T20:18:14: 
+2026-02-04T20:18:14: ✓ Starting...
+2026-02-04T20:18:14: ⚠ "next start" does not work with "output: standalone" configuration. Use "node .next/standalone/server.js" instead.
+2026-02-04T20:18:14: ✓ Ready in 383ms
+2026-02-05T15:21:15: 
+2026-02-05T15:21:15: > montecarlo-frontend@0.1.0 start /Users/rohitmalviya/Desktop/Rohit/Avalog/montecarlo-ui
+2026-02-05T15:21:15: > next start
+2026-02-05T15:21:15: 
+2026-02-05T15:21:15: ▲ Next.js 16.1.6
+2026-02-05T15:21:15: - Local:         http://localhost:3000
+2026-02-05T15:21:15: - Network:       http://172.168.1.249:3000
+2026-02-05T15:21:15: 
+2026-02-05T15:21:15: ✓ Starting...
+2026-02-05T15:21:15: ⚠ "next start" does not work with "output: standalone" configuration. Use "node .next/standalone/server.js" instead.
+2026-02-05T15:21:15: ✓ Ready in 213ms
